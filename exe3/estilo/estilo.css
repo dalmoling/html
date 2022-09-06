@@ -1,0 +1,16 @@
+
+
+html{
+    background-color: black;
+}
+
+table{
+    height: 100px;
+    width: 500px;
+    color : white;
+}
+
+tr{
+width: 100px;
+font-size: x-large;
+}
