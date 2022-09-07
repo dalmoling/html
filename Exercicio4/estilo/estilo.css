@@ -1,0 +1,22 @@
+@font-face{
+    font-family: "roboto";
+    src: url("fonts/Roboto-Italic.ttf");
+  }
+html{
+    background-color: pink;
+}
+video{
+    width: 650px;
+    margin: auto;
+    margin-left: 40px;
+        border: 8px solid red;
+}
+h1{
+    margin-left: 550px;
+    font-style: italic;
+    width: 500px;
+}
+img{
+    margin-left: 300px;
+    width: 200px;
+}
